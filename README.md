@@ -1,6 +1,6 @@
 -Hi, I’m Colin O'Rourke. 
 
--I’m interested in Computing Security and malware reverse engineering 
+-I’m interested in Computing Security
 
 -I’m currently learning Python, C, and x86 Assembly
 
